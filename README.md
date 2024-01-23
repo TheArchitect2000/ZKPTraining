@@ -1,4 +1,4 @@
-# ZKPTraining
+# ZKP Training
 Zero-knowledge proof (ZKP) training courses
 
 
